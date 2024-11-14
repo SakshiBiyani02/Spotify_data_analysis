@@ -1,12 +1,12 @@
 # Introduction
 This project focuses on examining a dataset containing Spotify’s most-streamed songs, with 
 attributes including: 
-• #Streams: Total number of streams each song has received. 
-• Danceability and Energy: Measures of musical qualities that influence how "danceable" and 
+Streams: Total number of streams each song has received. 
+Danceability and Energy: Measures of musical qualities that influence how "danceable" and 
 "energetic" a song feels. 
-• Mode and BPM (Beats Per Minute): Musical characteristics, where mode indicates the 
+Mode and BPM (Beats Per Minute): Musical characteristics, where mode indicates the 
 song’s key as major or minor, and BPM reflects the tempo. 
-• Playlists Counts: Inclusion in playlists across various streaming services, which often impacts 
+Playlists Counts: Inclusion in playlists across various streaming services, which often impacts 
 visibility and engagement. 
 The goals of this project include: 
 1. Understanding Popular Music Trends: Identify key musical characteristics associated with 
